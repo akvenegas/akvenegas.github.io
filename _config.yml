@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Annika Venegas / Site Title"
+title                    : "Annika Venegas Home Page"
 title_separator          : "-"
 name                     : &name "Annika Venegas"
 description              : &description "personal description"
@@ -21,12 +21,12 @@ repository               : "akvenegas/akvenegas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/DSC00583.JPG"
+  name             : "Math Student"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Mathematics Major + Secondary Education Minor interested in Applied Math, Statistics, Education. I am a currently a research assistant at Martinez Lab to model Infectious Diseases."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Illinois Urbana-Champiagn"
   uri              : # URL
   email            : "none@example.org" 
 
